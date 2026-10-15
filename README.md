@@ -1,4 +1,4 @@
-# ⚡ QuickKart Frontend
+# ⚡ Food-App Frontend
 
 A modern, high-performance single-page web application (SPA) built for the **QuickKart** hyper-local food and grocery delivery ecosystem. Powered by **React 18**, **Vite 5**, and **Tailwind CSS**.
 
